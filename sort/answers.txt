@@ -1,0 +1,16 @@
+sort1 uses: bubble sort
+
+How do you know?: it is bubble sort algorithm because it is using less running time for sorted data than sort3 as bubble sort
+doesn't sort sorted data again and again
+
+sort2 uses: merge sort
+
+How do you know?: it is Merge sort algorithm
+because even if the data gets bigger the running time is less than  sort1 and sort3
+and the running time nearly same for both sorted and unsorted data.
+
+
+sort3 uses: selection sort
+
+How do you know?: it is selection sort algorithm because although it is taking similiar running time for unsorted data like bubble sort,
+when it comes to sorted data again same long running time as other type of unsorted data.
